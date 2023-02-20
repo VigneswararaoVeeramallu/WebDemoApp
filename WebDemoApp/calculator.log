@@ -1,0 +1,18 @@
+2023-02-17 17:30:24,867 [7] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 17:30:42,201 [7] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 17:30:45,347 [6] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 17:30:48,913 [6] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 17:30:51,164 [6] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 17:30:52,630 [6] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 17:30:54,039 [6] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 17:30:55,418 [16] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 17:30:55,487 [16] INFO  WebDemoApp.Default - Computed result: 855
+2023-02-20 11:43:06,041 [5] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-20 11:43:24,332 [5] INFO  WebDemoApp.Default - Computed result: 89
+2023-02-20 11:57:04,079 [30] INFO  WebDemoApp.Default - Computed result: -800
+2023-02-20 12:01:41,041 [12] ERROR WebDemoApp.Default - An error occurred.
+System.Data.EvaluateException: Cannot find column [hdhdh].
+   at System.Data.NameNode.Bind(DataTable table, List`1 list)
+   at System.Data.DataExpression.Bind(DataTable table)
+   at System.Data.DataTable.Compute(String expression, String filter)
+   at WebDemoApp.Default.btn_Click(Object sender, EventArgs e) in C:\Demo\WebDemoApp\WebDemoApp\Default.aspx.cs:line 40

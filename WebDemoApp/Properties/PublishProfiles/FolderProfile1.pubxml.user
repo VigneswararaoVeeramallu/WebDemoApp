@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Lables</_PublishTargetUrl>
+    <History>True|2023-02-17T13:02:42.4554824Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>02/17/2023 17:18:29</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>07/25/2022 07:40:06</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>06/27/2017 12:59:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>07/19/2022 19:55:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.pdb">
+      <publishTime>07/19/2022 19:53:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>07/19/2022 19:54:46</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.pdb">
+      <publishTime>07/19/2022 19:53:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>07/19/2022 19:55:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.pdb">
+      <publishTime>07/19/2022 19:53:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>07/19/2022 19:54:48</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.pdb">
+      <publishTime>07/19/2022 19:53:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>07/19/2022 19:54:48</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.pdb">
+      <publishTime>07/19/2022 19:53:12</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>07/19/2022 19:54:46</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.Log4NetAppender.dll">
+      <publishTime>07/19/2022 19:54:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.Log4NetAppender.pdb">
+      <publishTime>07/19/2022 19:53:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.pdb">
+      <publishTime>07/19/2022 19:52:56</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.TelemetryCorrelation.dll">
+      <publishTime>07/02/2020 21:36:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>07/09/2020 03:22:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>05/19/2020 07:21:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>05/19/2020 07:21:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>05/19/2020 07:10:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>05/19/2020 07:22:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>05/19/2020 07:22:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>05/19/2020 07:10:40</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>05/19/2020 07:17:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>05/19/2020 07:21:40</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>05/19/2020 07:21:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>05/19/2020 07:19:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>05/19/2020 07:19:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>05/19/2020 07:20:04</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>05/19/2020 07:10:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>12/05/2017 07:06:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>12/05/2017 07:06:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Managed.Core.targets">
+      <publishTime>05/19/2020 07:10:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>05/19/2020 07:10:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Buffers.dll">
+      <publishTime>07/19/2017 22:31:28</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>05/16/2018 01:59:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Memory.dll">
+      <publishTime>04/18/2019 04:54:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Numerics.Vectors.dll">
+      <publishTime>07/19/2017 22:31:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>05/16/2018 01:59:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>11/15/2019 22:07:58</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>11/30/2018 05:09:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Threading.Tasks.Extensions.dll">
+      <publishTime>06/19/2019 00:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>05/19/2020 07:20:06</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>05/19/2020 07:20:06</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>05/19/2020 07:10:26</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>05/19/2020 07:22:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>05/19/2020 07:22:02</publishTime>
+    </File>
+    <File Include="bin/System.Buffers.dll">
+      <publishTime>02/19/2020 10:05:18</publishTime>
+    </File>
+    <File Include="bin/System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>01/20/2023 05:38:52</publishTime>
+    </File>
+    <File Include="bin/System.Memory.dll">
+      <publishTime>05/08/2022 03:31:02</publishTime>
+    </File>
+    <File Include="bin/System.Numerics.Vectors.dll">
+      <publishTime>05/15/2018 13:29:44</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>10/22/2021 23:40:18</publishTime>
+    </File>
+    <File Include="bin/WebDemoApp.dll">
+      <publishTime>02/17/2023 18:32:41</publishTime>
+    </File>
+    <File Include="bin/WebDemoApp.pdb">
+      <publishTime>02/17/2023 18:32:41</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>02/17/2023 16:08:46</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>02/17/2023 16:55:35</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/17/2023 18:32:41</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

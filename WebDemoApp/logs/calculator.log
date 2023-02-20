@@ -1,0 +1,50 @@
+2023-02-17 16:41:41,137 [6] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 16:41:44,704 [6] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 16:41:45,739 [8] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 16:41:49,141 [6] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 16:41:50,780 [9] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 16:41:52,911 [6] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 16:41:53,945 [9] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 16:41:53,975 [9] INFO  WebDemoApp.Default - Computed result: 89
+2023-02-17 16:42:20,418 [14] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 16:42:26,219 [6] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 16:42:26,245 [6] INFO  WebDemoApp.Default - Computed result: 0.1
+2023-02-17 16:42:30,014 [7] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 16:42:32,653 [6] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 16:42:33,055 [8] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 16:42:35,956 [6] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 16:42:35,983 [6] INFO  WebDemoApp.Default - Computed result: 88.1
+2023-02-17 16:42:39,138 [11] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 16:42:42,212 [6] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 16:42:43,986 [6] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 16:42:44,982 [8] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 16:42:46,128 [6] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 16:42:46,153 [6] INFO  WebDemoApp.Default - Computed result: 0
+2023-02-17 16:42:52,711 [6] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 16:42:54,727 [6] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 16:42:56,483 [6] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 16:42:56,508 [6] INFO  WebDemoApp.Default - Computed result: 0
+2023-02-17 16:42:58,080 [6] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 16:42:58,106 [6] INFO  WebDemoApp.Default - Computed result: 0
+2023-02-17 16:42:59,097 [9] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 16:42:59,122 [9] INFO  WebDemoApp.Default - Computed result: 0
+2023-02-17 16:43:02,938 [6] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 16:43:36,674 [6] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 16:43:38,693 [10] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 16:43:38,722 [10] INFO  WebDemoApp.Default - Computed result: 
+2023-02-17 16:58:27,740 [6] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 17:02:28,320 [6] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 17:03:14,335 [6] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 17:03:44,471 [6] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 17:03:51,042 [6] ERROR WebDemoApp.Default - An error occurred.
+System.Data.EvaluateException: Cannot find column [xxx].
+   at System.Data.NameNode.Bind(DataTable table, List`1 list)
+   at System.Data.DataExpression.Bind(DataTable table)
+   at System.Data.DataTable.Compute(String expression, String filter)
+   at WebDemoApp.Default.btn_Click(Object sender, EventArgs e) in C:\Demo\WebDemoApp\WebDemoApp\Default.aspx.cs:line 37
+2023-02-17 17:04:20,800 [6] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 17:04:38,732 [6] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 17:05:20,138 [6] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 17:05:29,088 [6] DEBUG WebDemoApp.Default - Page loaded.
+2023-02-17 17:05:32,540 [6] INFO  WebDemoApp.Default - Computed result: 
+2023-02-17 17:06:30,162 [6] DEBUG WebDemoApp.Default - Page loaded.
